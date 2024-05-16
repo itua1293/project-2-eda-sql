@@ -4,8 +4,8 @@
 
 ## Introduction
 
-A data project lifeycle has many phases, rather than being just an isolated analysis ina single tool.
-In this project will will experience doing an analysis using both Python and SQL to obtain the final result, by exploring which tool's behaviour
+A data project lifeycle has many phases, rather than being just an isolated analysis in a single tool.
+In this project you will experience doing an analysis using both Python and SQL to obtain the final result, by exploring each tool's behaviour
 
 ## Project Overview
 
@@ -40,5 +40,6 @@ Pick up a dataset in our common datasets repos and break your work into two big 
  - Intro Slides: introduce the problem and the datasets
  - Data cleaning and assumptions
  - Business questions and SQL query (1 slide per question with a printscreen of the query and the answer is enough)
+4. **PDF Document** with notes you might want to share
 
 
