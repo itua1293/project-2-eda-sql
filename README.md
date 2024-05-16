@@ -9,7 +9,7 @@ In this project you will experience doing an analysis using both Python and SQL 
 
 ## Project Overview
 
-Pick up a dataset in our common datasets repos and break your work into two big steps:
+Pick up a dataset in our common datasets repos and break your work into big steps:
  1. Pick a topic and choose a dataset on that topic. Build around 10 Business questions to answer about this topic.
  	- Try to build the questions before knowing everythign about the data
  	- If not possible, do step 2. first
