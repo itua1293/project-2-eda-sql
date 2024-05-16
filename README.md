@@ -30,6 +30,7 @@ Pick up a dataset in our common datasets repos and break your work into two big 
 ## Bonus
 
 Bonus points if you augment your data with data your obtain through WebScrapping
+Bonus points if you include visualizations from Python and/or Tableau in the final presentation
 
 ## Deliverables
 
