@@ -27,7 +27,11 @@ Pick up a dataset in our common datasets repos and break your work into two big 
  - [And many more](https://medium.com/@LearnPythonProgramming/best-data-sources-for-datasets-beyond-kaggle-98aac51e971e)
 
 
-### Deliverables
+## Bonus
+
+Bonus points if you augment your data with data your obtain through WebScrapping
+
+## Deliverables
 
 1. **Python Code:** Provide well-documented Python code that conducts the analysis and SQL upload.
 2. **SQL text file (.sql)** well commented document with all the queries answering the Business questions
